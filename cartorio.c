@@ -137,6 +137,7 @@ int main(){
 		case 4:
 		printf("Obrigado por usar.\n\n");
 		printf("Aperte ENTER\n");
+		printf("Tchau!!!\n");
 		return 0;
 		break;
         
